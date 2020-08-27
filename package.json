@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bhatthiralce/jest-project/issues"
   },
-  "homepage": "https://github.com/bhatthiralce/jest-project#readme"
+  "homepage": "https://github.com/bhatthiralce/jest-project#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
